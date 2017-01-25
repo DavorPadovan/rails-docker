@@ -1,5 +1,9 @@
 # README
 
+**Prerequisites:**
+
+Docker: https://www.docker.com/products/overview
+
 **First time:**
 
 `docker-compose build`
